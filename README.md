@@ -1,4 +1,4 @@
-### Hi there 👋 i am Shahariar Bhuiyan
+### Hi there 👋 I am Shahariar Bhuiyan
 
 <!--
 **shahariarraghib/shahariarraghib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
