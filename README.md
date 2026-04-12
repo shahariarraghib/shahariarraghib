@@ -4,6 +4,7 @@
 I enjoy transforming ideas into user-friendly digital products.<br>I’m a full-stack developer building fast, scalable, and user-focused digital experiences. I specialize in React.js and Next.js and craft clean, responsive interfaces with TailwindCSS, Bootstrap, and Material UI.<br><br>On the backend, I use Node.js, ExpressJS, MongoDB to develop efficient applications. I enjoy turning ideas into products while exploring new technologies.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahariarraghib&label=Profile%20views&color=0e75b6&style=flat" alt="shahariarraghib" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -26,7 +27,6 @@ I enjoy transforming ideas into user-friendly digital products.<br>I’m a full-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  </p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahariarraghib&" alt="shahariarraghib" /></p>
