@@ -2,6 +2,7 @@
 <h3 align="leeft">A passionate Web developer from Bangladesh</h3>
 - # 💫 About Me:
 I enjoy transforming ideas into user-friendly digital products.<br>I’m a full-stack developer building fast, scalable, and user-focused digital experiences. I specialize in React.js and Next.js and craft clean, responsive interfaces with TailwindCSS, Bootstrap, and Material UI.<br><br>On the backend, I use Node.js, ExpressJS, MongoDB to develop efficient applications. I enjoy turning ideas into products while exploring new technologies.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahariarraghib&label=Profile%20views&color=0e75b6&style=flat" alt="shahariarraghib" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
