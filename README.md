@@ -10,7 +10,7 @@ I enjoy transforming ideas into user-friendly digital products.<br>I’m a full-
 </p>
 
 - 👨‍💻 All of my projects are available at [https://shahariar-bhuiyan.vercel.app/](https://shahariar-bhuiyan.vercel.app/)
-- 📫 How to reach me **sr.raghib@gmail.com**
+- 📫 How to reach me **shahariarbhuiyan.dev@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahariar-bhuiyan/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sr.raghib@gmail.com) 
